@@ -15,16 +15,9 @@ QuizSpark is a cross-platform quiz creation and presentation application for sch
 
 ## Downloads: The latest installers can be found on the Releases page.
 
-Current Version
-Version 1.0.1
+Current Version 1.0.1
 
-macOS
-Download:
-QuizSpark Mac 1.0.1.dmg# 
-
-Windows
-Download:
-QuizSpark Windows 1.0.1 Setup.exe
+Download the latest installers from the Releases section above.
 
 ## Feedback
 QuizSpark is currently being tested and improved. Feedback and suggestions are welcome.
